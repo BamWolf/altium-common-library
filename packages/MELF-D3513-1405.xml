@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package name="MELF-D3513-1405">
+	<parameter name="URL" type="string" value="http://www.nxp.com/documents/outline_drawing/sod080c_po.pdf"/>
+	<parameter name="Referrence" type="string" value="MELF-D3513-1405"/>
+</package>

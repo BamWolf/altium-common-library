@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol name="DIOZ">
+	<parameter name="Referrence" type="string" value="DIOZ"/>
+	<parameter name="Designator" type="string" value="VD"/>
+</symbol>
