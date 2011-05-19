@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component manufacturer="Fairchild Semiconductor" partnumber="LL4148">
+	<parameter name="Category" type="string" value="Diode"/>
+	<parameter name="Author" type="string" value="Jack Krieger"/>
+	<parameter name="Symbol" type="string" value="DIO"/>
+	<parameter name="Package" type="string" value="MELF-D3513-1405"/>
+	<parameter name="CreationTime" type="datetime" value="2011-05-19 07:58:31.113000"/>
+	<parameter name="Editor" type="string" value="Jack Krieger"/>
+</component>

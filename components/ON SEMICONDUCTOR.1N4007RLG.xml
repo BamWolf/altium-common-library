@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component manufacturer="ON Semiconductor" partnumber="1N4007RLG">
+	<parameter name="Category" type="string" value="Diode"/>
+	<parameter name="Description" type="string" value="DIODE STD REC 1A 1000V DO41"/>
+	<parameter name="Author" type="string" value="Jack Krieger"/>
+	<parameter name="URL" type="string" value="http://www.onsemi.com/pub_link/Collateral/1N4001-D.PDF"/>
+	<parameter name="Symbol" type="string" value="DIO"/>
+	<parameter name="Package" type="string" value="DIO10.36-5.2x2.8"/>
+	<parameter name="CreationTime" type="datetime" value="2011-05-13 13:07:07.881000"/>
+	<parameter name="Voltage" type="float" value="1000"/>
+	<parameter name="Forvard Current" type="float" value="1"/>
+</component>

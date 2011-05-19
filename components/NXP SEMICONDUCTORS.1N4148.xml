@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component manufacturer="NXP Semiconductors" partnumber="1N4148">
+	<parameter name="Category" type="string" value="Diode"/>
+	<parameter name="Symbol" type="string" value="DIO"/>
+	<parameter name="CreationTime" type="datetime" value="2011-05-19 07:57:34.395000"/>
+	<parameter name="Author" type="string" value="Jack Krieger"/>
+</component>
