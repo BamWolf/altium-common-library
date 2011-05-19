@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component manufacturer="Fairchild Semiconductor" partnumber="1N4003">
+	<parameter name="Category" type="string" value="Diode"/>
+	<parameter name="Forward Current" type="float" value="1"/>
+	<parameter name="Description" type="string" value="General purpose plastic rectifier"/>
+	<parameter name="Author" type="string" value="Jack Krieger"/>
+	<parameter name="URL" type="string" value="http://www.fairchildsemi.com/ds/1N/1N4001.pdf"/>
+	<parameter name="Symbol" type="string" value="DIO"/>
+	<parameter name="Package" type="string" value="DO-41"/>
+	<parameter name="CreationTime" type="datetime" value="2011-05-19 10:36:31.098000"/>
+	<parameter name="Reverse Voltage" type="float" value="200"/>
+	<parameter name="Editor" type="string" value="Jack Krieger"/>
+</component>

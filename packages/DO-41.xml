@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package name="DIO10.36-5.2x2.8">
+<package name="DO-41">
 	<parameter name="Referrence" type="string" value="DIO10.36-5.2X2.8"/>
 </package>
