@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<model name="CAP">
+  <parameter name="Kind" value="General" type="string"/>
+  <parameter name="Netlist" value="@DESIGNATOR %1 %2 @VALUE ?&quot;INITIAL VOLTAGE&quot;|IC=@&quot;INITIAL VOLTAGE&quot;|" type="string"/>
+  <parameter name="Author" value="Jack Krieger" type="string"/>
+  <parameter name="CreationTime" value="2011-07-29 17:09:13.162000" type="datetime"/>
+  <parameter name="Prefix" value="C" type="string"/>
+  <parameter name="Subkind" value="Capacitor" type="string"/>
+</model>
