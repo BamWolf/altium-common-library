@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package name="TO-92">
+	<parameter name="URL" type="string" value="http://www.nxp.com/documents/other/Package_x-ref_packing_outlines.pdf"/>
+	<parameter name="Referrence" type="string" value="TO-92"/>
+</package>
