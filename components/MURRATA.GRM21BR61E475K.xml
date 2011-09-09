@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component manufacturer="Murrata" partnumber="GRM21BR61E475K">
 	<parameter name="Category" type="string" value="Capacitor"/>
-	<parameter name="Package" type="string" value="CC0805"/>
+	<parameter name="Author" type="string" value="Jack Krieger"/>
 	<parameter name="URL" type="string" value="http://www.murata.com/products/capacitor/tech_data/pdf/grm21br61e475k.pdf"/>
 	<parameter name="Symbol" type="string" value="CAP"/>
-	<parameter name="Author" type="string" value="Jack Krieger"/>
-	<parameter name="CreationTime" type="datetime" value="2011-05-12 20:10:16.713000"/>
+	<parameter name="Package" type="string" value="CC0805"/>
+	<parameter name="CreationTime" type="datetime" value="2011-07-29 12:45:35.563000"/>
 	<parameter name="Value" type="float" value="4.7"/>
 	<parameter name="Voltage" type="float" value="25"/>
+	<parameter name="Model" type="string" value="CAP"/>
 	<parameter name="Class" type="string" value="X5R"/>
+	<parameter name="Editor" type="string" value="Jack Krieger"/>
 </component>

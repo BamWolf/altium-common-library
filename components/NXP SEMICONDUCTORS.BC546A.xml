@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component manufacturer="NXP Semiconductors" partnumber="BC546A">
+	<parameter name="Category" type="string" value="Transistor"/>
+	<parameter name="Description" type="string" value="NPN general-purpose transistor"/>
+	<parameter name="Author" type="string" value="Jack Krieger"/>
+	<parameter name="URL" type="string" value="http://www.nxp.com/documents/data_sheet/BC846_BC546_SER.pdf"/>
+	<parameter name="Symbol" type="string" value="TRANS-NPN"/>
+	<parameter name="Package" type="string" value="TO-92"/>
+	<parameter name="CreationTime" type="datetime" value="2011-09-09 12:48:30.802000"/>
+	<parameter name="Current" type="float" value="0.1"/>
+	<parameter name="Voltage" type="float" value="65"/>
+	<parameter name="Editor" type="string" value="Jack Krieger"/>
+</component>
