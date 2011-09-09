@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<model name="RES">
+  <parameter name="Kind" value="General" type="string"/>
+  <parameter name="Netlist" value="@DESIGNATOR %1 %2 @VALUE&#10;" type="string"/>
+  <parameter name="Author" value="Jack Krieger" type="string"/>
+  <parameter name="CreationTime" value="2011-07-29 18:03:01.302000" type="datetime"/>
+  <parameter name="Prefix" value="R" type="string"/>
+  <parameter name="Subkind" value="Resistor" type="string"/>
+</model>
