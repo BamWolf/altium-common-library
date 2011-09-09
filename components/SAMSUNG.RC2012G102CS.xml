@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component manufacturer="Samsung" partnumber="RC2012G102CS">
+  <parameter name="Category" value="Resistor" type="string"/>
+  <parameter name="Description" value="Thick-Film chip resistor" type="string"/>
+  <parameter name="Package" value="CR0805" type="string"/>
+  <parameter name="URL" value="https://sem.samsung.co.kr/servlet/DownloadServlet?dir=partnumber&amp;num=&amp;fileName=RC2012G+series337.pdf" type="string"/>
+  <parameter name="CreationTime" value="2011-07-29 18:03:19.607000" type="datetime"/>
+  <parameter name="Symbol" value="RES" type="string"/>
+  <parameter name="Author" value="Jack Krieger" type="string"/>
+  <parameter name="TCR" value="100" type="float"/>
+  <parameter name="Value" value="1000" type="float"/>
+  <parameter name="Editor" value="Jack Krieger" type="string"/>
+  <parameter name="Model" value="RES" type="string"/>
+  <parameter name="Tolerance" value="2" type="float"/>
+</component>

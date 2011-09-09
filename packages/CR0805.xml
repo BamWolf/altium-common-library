@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package name="CR0805">
+  <parameter name="Referrence" value="RESC2012N" type="string"/>
+</package>
