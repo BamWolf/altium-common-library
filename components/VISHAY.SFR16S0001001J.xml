@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component manufacturer="Vishay" partnumber="SFR16S0001001J">
+	<parameter name="Category" type="string" value="Resistor"/>
+	<parameter name="Description" type="string" value="Standard Metal Film Leaded Resistor"/>
+	<parameter name="Package" type="string" value="RES6.5-3.4X1.9"/>
+	<parameter name="URL" type="string" value="http://www.vishay.com/docs/28722/sfr16s25.pdf"/>
+	<parameter name="Symbol" type="string" value="RES"/>
+	<parameter name="Author" type="string" value="Jack Krieger"/>
+	<parameter name="CreationTime" type="datetime" value="2011-09-08 21:19:56.996000"/>
+	<parameter name="Value" type="float" value="1000"/>
+	<parameter name="Editor" type="string" value="Jack Krieger"/>
+	<parameter name="Model" type="string" value="RES"/>
+	<parameter name="Tolerance" type="string" value="5"/>
+</component>
