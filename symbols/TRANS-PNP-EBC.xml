@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol name="TRANS-PNP-EBC">
+	<parameter name="Referrence" type="string" value="TRANS-PNP-EBC"/>
+	<parameter name="Designator" type="string" value="VT"/>
+	<parameter name="Description" type="string" value="PNP transistor, pin numbreing: 1 - emitter, 2 - base, 3 - collector"/>
+</symbol>

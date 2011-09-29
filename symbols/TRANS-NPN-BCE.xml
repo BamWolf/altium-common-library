@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol name="TRANS-NPN-BCE">
+	<parameter name="Referrence" type="string" value="TRANS-NPN-BCE"/>
+	<parameter name="Designator" type="string" value="VT"/>
+	<parameter name="Description" type="string" value="NPN transistor, pin numbreing: 1 - base, 2 - collector, 3 - emitter"/>
+</symbol>

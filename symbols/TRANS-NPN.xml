@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<symbol name="TRANS-NPN">
-	<parameter name="Referrence" type="string" value="TRANS-NPN"/>
-	<parameter name="Designator" type="string" value="VT"/>
-	<parameter name="Description" type="string" value="NPN transistor"/>
-</symbol>
