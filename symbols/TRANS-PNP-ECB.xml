@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol name="TRANS-PNP-ECB">
+	<parameter name="Referrence" type="string" value="TRANS-PNP-ECB"/>
+	<parameter name="Designator" type="string" value="VT"/>
+</symbol>
