@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component manufacturer="Vishay" partnumber="SFR25H000510ZJ">
+  <parameter name="Author" value="Jack Krieger" type="string"/>
+  <parameter name="Category" value="Resistor" type="string"/>
+  <parameter name="CreationTime" value="2011-11-20 07:48:38.745000" type="datetime"/>
+  <parameter name="Description" value="Standard Metal Film Leaded Resistor" type="string"/>
+  <parameter name="Model" value="RES" type="string"/>
+  <parameter name="Package" value="RES6.5-3.4X1.9" type="string"/>
+  <parameter name="Symbol" value="RES" type="string"/>
+  <parameter name="TCR" value="250" type="float"/>
+  <parameter name="Tolerance" value="5" type="float"/>
+  <parameter name="URL" value="http://www.vishay.com/docs/28722/sfr16s25.pdf" type="string"/>
+  <parameter name="Value" value="5100000" type="float"/>
+</component>

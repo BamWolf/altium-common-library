@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component manufacturer="NXP Semiconductors" partnumber="BUJ100">
+  <parameter name="Author" value="Jack Krieger" type="string"/>
+  <parameter name="Category" value="Transistor" type="string"/>
+  <parameter name="Collector current" value="1" type="float"/>
+  <parameter name="CreationTime" value="2011-11-27 08:00:32.058000" type="datetime"/>
+  <parameter name="Description" value="High-voltage, high-speed planar-passivated npn power switching transistor in the TO92 envelope intended for use in compact fluorescent lamps and low power electronic lighting ballasts, converters and inverters, etc." type="string"/>
+  <parameter name="Editor" value="Jack Krieger" type="string"/>
+  <parameter name="Package" value="TO-92" type="string"/>
+  <parameter name="Symbol" value="TRANS-NPN-ECB" type="string"/>
+  <parameter name="URL" value="http://www.nxp.com/documents/data_sheet/BUJ100.pdf" type="string"/>
+</component>
