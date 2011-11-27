@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component manufacturer="ON Semiconductor" partnumber="BF245">
+  <parameter name="Author" value="Jack Krieger" type="string"/>
+  <parameter name="Category" value="Transistor" type="string"/>
+  <parameter name="CreationTime" value="2011-10-09 18:19:49.122000" type="datetime"/>
+  <parameter name="Description" value="JFET VHF/UHF Amplifier. N-Channel - Depletion" type="string"/>
+  <parameter name="Editor" value="Jack Krieger" type="string"/>
+  <parameter name="Package" value="TO-92" type="string"/>
+  <parameter name="Symbol" value="TRANS-JFET-N-GSD" type="string"/>
+  <parameter name="URL" value="http://www.onsemi.com/pub_link/Collateral/BF245A-D.PDF" type="string"/>
+</component>
