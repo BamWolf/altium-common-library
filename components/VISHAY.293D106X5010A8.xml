@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component manufacturer="Vishay" partnumber="293D106X5010A8">
+  <parameter name="Author" value="Jack Krieger" type="string"/>
+  <parameter name="Category" value="Capacitor" type="string"/>
+  <parameter name="CreationTime" value="2012-02-12 18:37:58.546000" type="datetime"/>
+  <parameter name="Description" value="10uF, Case A, Solid Tantalum Surface Mount Capacitor" type="string"/>
+  <parameter name="Model" value="CAP" type="string"/>
+  <parameter name="Package" value="TC3216-1206" type="string"/>
+  <parameter name="Symbol" value="CAPP" type="string"/>
+  <parameter name="Tolerance" value="5" type="float"/>
+  <parameter name="URL" value="http://www.vishay.com/docs/40002/293d.pdf" type="string"/>
+  <parameter name="Value" value="10" type="float"/>
+  <parameter name="Voltage" value="10" type="float"/>
+</component>
