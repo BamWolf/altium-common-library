@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component manufacturer="Vishay" partnumber="M-0805K1501JS">
+  <parameter name="Author" value="Jack Krieger" type="string"/>
+  <parameter name="Category" value="Resistor" type="string"/>
+  <parameter name="CreationTime" value="2012-02-12 11:07:47.443000" type="datetime"/>
+  <parameter name="Description" value="1,5 kOhm, 0805 size, Commercial Thick Film Resistor, Surface Mount Chip" type="string"/>
+  <parameter name="Editor" value="Jack Krieger" type="string"/>
+  <parameter name="Model" value="RES" type="string"/>
+  <parameter name="Package" value="CR0805" type="string"/>
+  <parameter name="Symbol" value="RES" type="string"/>
+  <parameter name="TCR" value="100" type="float"/>
+  <parameter name="Tolerance" value="5" type="float"/>
+  <parameter name="URL" value="http://www.vishay.com/docs/60031/m.pdf" type="string"/>
+  <parameter name="Value" value="1500" type="float"/>
+  <parameter name="Voltage" value="50" type="float"/>
+</component>
