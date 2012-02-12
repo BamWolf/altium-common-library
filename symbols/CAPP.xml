@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<symbol name="CAPP">
+  <parameter name="Description" value="Polar Capacitor" type="string"/>
+  <parameter name="Designator" value="C" type="string"/>
+  <parameter name="Referrence" value="CAPP" type="string"/>
+</symbol>
