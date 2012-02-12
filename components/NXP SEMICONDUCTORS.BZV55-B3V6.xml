@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component manufacturer="NXP Semiconductors" partnumber="BZV55-B3V6">
+  <parameter name="Author" value="Jack Krieger" type="string"/>
+  <parameter name="Category" value="Diode" type="string"/>
+  <parameter name="CreationTime" value="2012-02-12 16:57:09.966000" type="datetime"/>
+  <parameter name="Description" value="3.6V Low power voltage regulator" type="string"/>
+  <parameter name="Package" value="MELF-D3513-1405" type="string"/>
+  <parameter name="Symbol" value="DIOZ" type="string"/>
+  <parameter name="URL" value="http://www.nxp.com/documents/data_sheet/BZV55_SER.pdf" type="string"/>
+  <parameter name="Value" value="3.6" type="float"/>
+</component>
