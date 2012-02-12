@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component manufacturer="Vishay" partnumber="XT9S18ANA2M">
+  <parameter name="Author" value="Jack Krieger" type="string"/>
+  <parameter name="Category" value="Crystal" type="string"/>
+  <parameter name="CreationTime" value="2012-02-12 15:44:37.774000" type="datetime"/>
+  <parameter name="Description" value="12MHz Low Profile Holder Type Crystal Unit" type="string"/>
+  <parameter name="Editor" value="Jack Krieger" type="string"/>
+  <parameter name="Freqency" value="12000000" type="float"/>
+  <parameter name="Package" value="HC49_S" type="string"/>
+  <parameter name="Symbol" value="BQ" type="string"/>
+  <parameter name="URL" value="http://www.vishay.com/docs/35014/xt49s.pdf" type="string"/>
+</component>
