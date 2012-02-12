@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component manufacturer="Atmel" partnumber="ATmega8-16AU">
+  <parameter name="Author" value="Jack Krieger" type="string"/>
+  <parameter name="Category" value="Microcontroller" type="string"/>
+  <parameter name="CreationTime" value="2012-02-12 10:18:53.491000" type="datetime"/>
+  <parameter name="Description" value="8-bit Microcontroller with 8KBytes In-System Programmable Flash" type="string"/>
+  <parameter name="Package" value="TQFP-32N" type="string"/>
+  <parameter name="Symbol" value="ATMEGA8-16A" type="string"/>
+  <parameter name="URL" value="http://www.atmel.com/Images/2486s.pdf" type="string"/>
+</component>

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package name="TQFP-32N">
+  <parameter name="Referrence" value="TQFP-32N" type="string"/>
+  <parameter name="URL" value="http://www.atmel.com/Images/2486s.pdf" type="string"/>
+</package>
