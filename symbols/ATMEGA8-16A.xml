@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<symbol name="ATMEGA8-16A">
+  <parameter name="Description" value="8-Bit AVR Microcontroller with 8K Bytes of In-System Programmable Flash Memory" type="string"/>
+  <parameter name="Designator" value="D" type="string"/>
+  <parameter name="Referrence" value="ATMEGA8-16A" type="string"/>
+</symbol>
