@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package name="TC3216-1206">
+  <parameter name="Description" value="SMD Tantalum Capacitor, Case A" type="string"/>
+  <parameter name="Referrence" value="TC3216-1206" type="string"/>
+</package>

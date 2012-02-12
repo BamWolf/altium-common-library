@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component manufacturer="Murata" partnumber="GQM2195C2E160J">
+  <parameter name="Author" value="Jack Krieger" type="string"/>
+  <parameter name="Category" value="Capacitor" type="string"/>
+  <parameter name="Class" value="C0G" type="string"/>
+  <parameter name="CreationTime" value="2012-02-12 17:39:18.177000" type="datetime"/>
+  <parameter name="Description" value="16pF 0805 C0G Chip Monolithic Ceramic Capacitor" type="string"/>
+  <parameter name="Model" value="CAP" type="string"/>
+  <parameter name="Package" value="CC0805" type="string"/>
+  <parameter name="Symbol" value="CAP" type="string"/>
+  <parameter name="Tolerance" value="5" type="float"/>
+  <parameter name="Value" value="0.000016" type="float"/>
+  <parameter name="Voltage" value="250" type="float"/>
+</component>
