@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<symbol name="BQ">
+  <parameter name="Designator" value="BQ" type="string"/>
+  <parameter name="Referrence" value="BQ" type="string"/>
+</symbol>

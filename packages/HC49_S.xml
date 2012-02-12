@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package name="HC49_S">
+  <parameter name="Description" value="HC49/S Crystal Oscillator Package" type="string"/>
+  <parameter name="Referrence" value="HC49_S" type="string"/>
+</package>
