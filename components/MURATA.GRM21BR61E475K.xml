@@ -3,12 +3,12 @@
   <parameter name="Author" value="Jack Krieger" type="string"/>
   <parameter name="Category" value="Capacitor" type="string"/>
   <parameter name="Class" value="X5R" type="string"/>
-  <parameter name="CreationTime" value="2012-02-12 11:46:01.956000" type="datetime"/>
+  <parameter name="CreationTime" value="2012-02-12 17:26:16.406000" type="datetime"/>
   <parameter name="Editor" value="Jack Krieger" type="string"/>
   <parameter name="Model" value="CAP" type="string"/>
   <parameter name="Package" value="CC0805" type="string"/>
   <parameter name="Symbol" value="CAP" type="string"/>
-  <parameter name="URL" value="http://www.murata.com/products/capacitor/tech_data/pdf/grm21br61e475k.pdf" type="string"/>
+  <parameter name="URL" value="http://www.murata.com/products/catalog/pdf/c02e.pdf" type="string"/>
   <parameter name="Value" value="4.7" type="float"/>
   <parameter name="Voltage" value="25" type="float"/>
 </component>
