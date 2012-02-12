@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component manufacturer="Murata" partnumber="GRM21BR61E225K">
+  <parameter name="Author" value="Noxius" type="string"/>
+  <parameter name="Category" value="Capacitor" type="string"/>
+  <parameter name="Class" value="X5R" type="string"/>
+  <parameter name="CreationTime" value="2012-02-12 11:45:53.038000" type="datetime"/>
+  <parameter name="Description" value="2.2uF 0805 Chip Monolithic Ceramic Capacitor" type="string"/>
+  <parameter name="Editor" value="Jack Krieger" type="string"/>
+  <parameter name="Model" value="CAP" type="string"/>
+  <parameter name="Package" value="CC0805" type="string"/>
+  <parameter name="Symbol" value="CAP" type="string"/>
+  <parameter name="Tolerance" value="10" type="float"/>
+  <parameter name="URL" value="http://www.murata.com/products/catalog/pdf/c02e.pdf" type="string"/>
+  <parameter name="Value" value="2.2" type="float"/>
+</component>
