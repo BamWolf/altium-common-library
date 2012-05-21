@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component manufacturer="Fairchild Semiconductor" partnumber="LM555CM">
+	<parameter name="Author" type="string" value="Jack Krieger"/>
+	<parameter name="Category" type="string" value="IC"/>
+	<parameter name="CreationTime" type="datetime" value="2012-04-25 09:54:03.167000"/>
+	<parameter name="Description" type="string" value="Single Timer"/>
+	<parameter name="Package" type="string" value="SOIC127P600-8N"/>
+	<parameter name="Symbol" type="string" value="TIMER-555"/>
+	<parameter name="URL" type="string" value="http://www.fairchildsemi.com/ds/LM/LM555.pdf"/>
+</component>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol name="TIMER-555">
+	<parameter name="Description" type="string" value="Таймер LM555"/>
+	<parameter name="Designator" type="string" value="D"/>
+	<parameter name="Referrence" type="string" value="TIMER-555"/>
+</symbol>

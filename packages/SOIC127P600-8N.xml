@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package name="SOIC127P600-8N">
+	<parameter name="Referrence" type="string" value="SOIC127P600-8N"/>
+</package>
